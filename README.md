@@ -46,7 +46,7 @@ pip install requests pandas openpyxl tqdm
    ```
 
 3. Запустите скрипт:
-   - Укажите API-ключ в скрипте (в переменной `API_KEY`).
+   - Укажите API-ключ в скрипте (в строке `YOUR_API_KEY`).
    - Запустите скрипт:
    ```bash
    python main.py
